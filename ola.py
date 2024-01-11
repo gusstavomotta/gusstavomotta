@@ -1,5 +1,8 @@
 print("oi")
 print("QUero testar mudanças")
 
-for i in range (10):
-    print(i)
+    
+import random
+
+sorteio = random.randrange(1,10)
+print(sorteio)  
