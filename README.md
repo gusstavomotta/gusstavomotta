@@ -1,4 +1,4 @@
-Olá, meu nome é Gustavo! 👋
+### Olá, meu nome é Gustavo! 👋
 
 🔭 Atualmente estou participando de um Progama de Novos talentos com foco em PHP e Banco de Dados.
 
