@@ -25,7 +25,7 @@
 
 ###
 
-<p align="left">- 🔭 Estudante de Ciência da Computação - UNISC | 7/8 <br> - 🔭 Bolsista de Pesquisa e Inovação Científica, atualmente trabalhando com JAVA e atuando como Auxiliar de TI no Radson de Santa Cruz do Sul/RS.<br>- 📚 Estudando JAVA, Android Studio e  Engenharia de Software.<br>- ⚡ Tenho conhecimentos em PHP, Java, Python, C++, Linux, Docker, Bancos de dados SQL. Conhecimento básico em HTML e CSS.</p>
+<p align="left">- 🔭 Estudante de Ciência da Computação - UNISC | 6/8 <br> - 🔭 Bolsista de Pesquisa e Inovação Científica, atualmente trabalhando com JAVA e atuando como Auxiliar de TI no Radson de Santa Cruz do Sul/RS.<br>- 📚 Estudando JAVA, Android Studio e  Engenharia de Software.<br>- ⚡ Tenho conhecimentos em PHP, Java, Python, C++, Linux, Docker, Bancos de dados SQL. Conhecimento básico em HTML e CSS.</p>
 
 ###
 
